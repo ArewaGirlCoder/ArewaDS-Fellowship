@@ -1,4 +1,4 @@
-# Cohort-3.0-Python-Programming-Fellowship-Assignments
+# ArewaDS-Fellowship Assignments
 
 This repository is mainly for the Arewa Data Science Python Programming Fellowship Assignments
 

@@ -1,4 +1,4 @@
-# ArewaDS-Fellowship Assignments
+# ArewaDS-Fellowship Repo
 
 This repository is mainly for the Arewa Data Science Python Programming Fellowship Assignments
 
